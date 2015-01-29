@@ -43,8 +43,6 @@ class DocumentsHelperController < ApplicationController
 			unless data["nombre_comuna"].nil?
 				comuna = comunas.select{|comuna| comuna.nombre.casecmp(data["nombre_comuna"]) == 0}.first
 				Sector.create(nombre: data["nombre_sector"], sector: data["cod_sector"], comuna: comuna)
-			else
-				"Data nil: " + data.to_json
 			end
 		end
 	end
@@ -54,7 +52,6 @@ class DocumentsHelperController < ApplicationController
 		json = csv_to_json	'public/uploads/document/comunas.csv'
 		Comuna.delete_all
 		json.each do |data|
-			p data
 			Comuna.create(nombre: data["nombre"], provincia_id: data["provincia_id"], id: data["id"])
 		end
 	end
@@ -62,7 +59,7 @@ class DocumentsHelperController < ApplicationController
 	#rails g model provincia nombre:string region:references
 	def read_provincias
 		json = csv_to_json 'public/uploads/document/provincias.csv'
-		Provincium.all.delete
+		Provincium.delete_all
 		json.each do |data|
 			Provincium.create(nombre: data["nombre"], region_id: data["region_id"], id: data["id"])
 		end
@@ -71,7 +68,7 @@ class DocumentsHelperController < ApplicationController
 	#rails g model region numero:string nombre:string titulo:string
 	def read_regions
 		json = csv_to_json 'public/uploads/document/regions.csv'
-		Region.all.delete
+		Region.delete_all
 		json.each do |data|
 			Region.create(data)
 		end
