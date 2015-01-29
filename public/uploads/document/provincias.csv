@@ -1,0 +1,53 @@
+id,region_id,nombre
+1,15,Arica
+2,15,Parinacota
+3,1,Iquique
+4,2,Tocopilla
+5,2,El Loa
+6,2,Antofagasta
+7,3,Chañaral
+8,3,Copiapó
+9,3,Huasco
+10,4,Elqui
+11,4,Limarí
+12,4,Choapa
+13,5,Valparaíso
+14,5,Petorca
+15,5,Los Andes
+16,5,San Felipe De Aconcagua
+17,5,Quillota
+18,5,San Antonio
+19,5,Isla De Pascua
+20,6,Cachapoal
+21,6,Colchahua
+22,6,Cardenal Caro
+23,7,Curicó
+24,7,Talca
+25,7,Linares
+26,7,Cauquenes
+27,8,Ñuble
+28,8,Bio Bio
+29,8,Concepción
+30,8,Arauco
+31,9,Malleco
+32,9,Cautín
+33,10,Osorno
+34,10,Llanquihue
+35,10,Chiloé
+36,10,Palena
+37,11,Capitán Pratt
+38,11,Aysén
+39,11,Coihaique
+40,11,General Carrera
+41,12,Última Esperanza
+42,12,Magallanes
+43,12,Tierra Del Fuego
+44,12,Antártica Chilena
+45,13,Santiago
+46,13,Cordillera
+47,13,Melipilla
+48,13,Talagante
+49,13,Maipo
+50,13,Chacabuco
+51,14,Valdivia
+52,14,Ranco

@@ -1,0 +1,347 @@
+id,provincia_id,nombre
+1,1,Arica
+2,1,Camarones
+3,2,Putre
+4,2,General Lagos
+5,3,Iquique
+6,3,Alto Hospicio
+7,3,Huara
+8,3,Camiña
+9,3,Colchane
+10,3,Pica
+11,3,Pozo Almonte
+12,4,Tocopilla
+13,4,María Elena
+14,5,Calama
+15,5,Ollague
+16,5,San Pedro De Atacama
+17,6,Antofagasta
+18,6,Mejillones
+19,6,Sierra Gorda
+20,6,Taltal
+21,7,Chañaral
+22,7,Diego De Almagro
+23,8,Copiapó
+24,8,Caldera
+25,8,Tierra Amarilla
+26,9,Vallenar
+27,9,Freirina
+28,9,Huasco
+29,9,Alto Del Carmen
+30,10,La Serena
+31,10,La Higuera
+32,10,Coquimbo
+33,10,Andacollo
+34,10,Vicuña
+35,10,Paiguano
+36,11,Ovalle
+37,11,Río Hurtado
+38,11,Monte Patria
+39,11,Combarbalá
+40,11,Punitaqui
+41,12,Illapel
+42,12,Salamanca
+43,12,Los Vilos
+44,12,Canela
+45,13,Valparaíso
+46,13,Casablanca
+47,13,Concon
+48,13,Juan Fernández
+49,13,Puchuncaví
+50,13,Quilpué
+51,13,Quintero
+52,13,Villa Alemana
+53,13,Viña Del Mar
+54,14,Petorca
+55,14,La Ligua
+56,14,Cabildo
+57,14,Papudo
+58,14,Zapallar
+59,15,Los Andes
+60,15,San Esteban
+61,15,Calle Larga
+62,15,Rinconada
+63,16,San Felipe
+64,16,Catemu
+65,16,Llay Llay
+66,16,Panquehue
+67,16,Putaendo
+68,16,Santa María
+69,17,Quillota
+70,17,La Calera
+71,17,Hijuelas
+72,17,Limache
+73,17,La Cruz
+74,17,Nogales
+75,17,Olmué
+76,18,San Antonio
+77,18,Algarrobo
+78,18,Cartagena
+79,18,El Quisco
+80,18,El Tabo
+81,18,Santo Domingo
+82,19,Isla De Pascua
+83,20,Rancagua
+84,20,Codegua
+85,20,Coinco
+86,20,Coltauco
+87,20,Doñihue
+88,20,Graneros
+89,20,Las Cabras
+90,20,Mostazal
+91,20,Machalí
+92,20,Malloa
+93,20,Olivar
+94,20,Peumo
+95,20,Pichidegua
+96,20,Quinta De Tilcoco
+97,20,Rengo
+98,20,Requinoa
+99,20,San Vicente
+100,21,San Fernando
+101,21,Chépica
+102,21,Chimbarongo
+103,21,Lolol
+104,21,Nancagua
+105,21,Palmilla
+106,21,Peralillo
+107,21,Placilla
+108,21,Pumanque
+109,21,Santa Cruz
+110,22,Pichilemu
+111,22,La Estrella
+112,22,Litueche
+113,22,Marchigue
+114,22,Navidad
+115,22,Paredones
+116,23,Curicó
+117,23,Teno
+118,23,Romeral
+119,23,Molina
+120,23,Sagrada Familia
+121,23,Hualañé
+122,23,Licantén
+123,23,Vichuquén
+124,23,Rauco
+125,24,Talca
+126,24,Pelarco
+127,24,Río Claro
+128,24,San Clemente
+129,24,Maule
+130,24,San Rafael
+131,24,Empedrado
+132,24,Pencahue
+133,24,Constitución
+134,24,Curepto
+135,25,Linares
+136,25,Yerbas Buenas
+137,25,Colbún
+138,25,Longaví
+139,25,Parral
+140,25,Retiro
+141,25,Villa Alegre
+142,25,San Javier
+143,26,Cauquenes
+144,26,Pelluhue
+145,26,Chanco
+146,27,Chillán
+147,27,Bulnes
+148,27,Chillán Viejo
+149,27,Cobquecura
+150,27,Coelemu
+151,27,Coihueco
+152,27,El Carmen
+153,27,Ninhue
+154,27,Ñiquén
+155,27,Pemuco
+156,27,Pinto
+157,27,Portezuelo
+158,27,Quillón
+159,27,Quirihue
+160,27,Ranquil
+161,27,San Carlos
+162,27,San Fabián
+163,27,San Ignacio
+164,27,San Nicolás
+165,27,Trehuaco
+166,27,Yungay
+167,28,Los Angeles
+168,28,Alto Bio Bio
+169,28,Antuco
+170,28,Cabrero
+171,28,Laja
+172,28,Mulchén
+173,28,Nacimiento
+174,28,Negrete
+175,28,Quilaco
+176,28,Quilleco
+177,28,Santa Bárbara
+178,28,San Rosendo
+179,28,Tucapel
+180,28,Yumbel
+181,29,Concepción
+182,29,Chiguayante
+183,29,Coronel
+184,29,Florida
+185,29,Hualpén
+186,29,Hualqui
+187,29,Lota
+188,29,Penco
+189,29,San Pedro De La Paz
+190,29,Santa Juana
+191,29,Talcahuano
+192,29,Tomé
+193,30,Arauco
+194,30,Cañete
+195,30,Contulmo
+196,30,Curanilahue
+197,30,Lebu
+198,30,Los Alamos
+199,30,Tirua
+200,31,Angol
+201,31,Collipulli
+202,31,Curacautín
+203,31,Ercilla
+204,31,Lonquimay
+205,31,Los Sauces
+206,31,Lumaco
+207,31,Purén
+208,31,Reinaco
+209,31,Traiguén
+210,31,Victoria
+211,32,Temuco
+212,32,Carahue
+213,32,Cholchol
+214,32,Cunco
+215,32,Curarrehue
+216,32,Freire
+217,32,Galvarino
+218,32,Gorbea
+219,32,Lautaro
+220,32,Loncoche
+221,32,Melipeuco
+222,32,Nueva Imperial
+223,32,Padre Las Casas
+224,32,Perquenco
+225,32,Pitrufquén
+226,32,Pucón
+227,32,Saavedra
+228,32,Teodoro Schmidt
+229,32,Toltén
+230,32,Vilcún
+231,32,Villarrica
+232,33,Osorno
+233,33,Puerto Octay
+234,33,Purranque
+235,33,Puyehue
+236,33,Río Negro
+237,33,San Juan De La Costa
+238,33,San Pablo
+239,34,Calbuco
+240,34,Cochamó
+241,34,Fresia
+242,34,Frutillar
+243,34,Los Muermos
+244,34,Llanquihue
+245,34,Maullín
+246,34,Puerto Montt
+247,34,Puerto Varas
+249,35,Ancud
+250,35,Castro
+251,35,Curaco De Vélez
+252,35,Chonchi
+253,35,Dalcahue
+254,35,Puqueldón
+255,35,Queilén
+256,35,Quellón
+257,35,Quemchi
+258,35,Quinchao
+259,36,Chaitén
+260,36,Futaleufú
+261,36,Hualaihué
+262,36,Palena
+263,37,Cochrane
+264,37,OHiggins
+265,37,Tortel
+266,38,Aysén
+267,38,Cisnes
+268,38,Guaitecas
+269,39,Coyhaique
+270,39,Lago Verde
+271,40,Chile Chico
+272,40,Río Ibañez
+273,41,Natales
+274,41,Torres Del Paine
+275,42,Punta Arenas
+276,42,Río Verde
+277,42,Laguna Blanca
+278,42,San Gregorio
+279,43,Porvenir
+280,43,Primavera
+281,43,Timaukel
+282,44,Cabo de Hornos
+283,44,Antártica
+284,45,Cerrillos
+285,45,Cerro Navia
+286,45,Conchalí
+287,45,El Bosque
+288,45,Estación Central
+289,45,Huechuraba
+290,45,Independencia
+291,45,La Cisterna
+292,45,La Florida
+293,45,La Granja
+294,45,La Pintana
+295,45,La Reina
+296,45,Las Condes
+297,45,Lo Barnechea
+298,45,Lo Espejo
+299,45,Lo Prado
+300,45,Macúl
+301,45,Maipú
+302,45,Ñuñoa
+303,45,Pedro Aguirre Cerda
+304,45,Peñalolén
+305,45,Providencia
+306,45,Pudahuel
+307,45,Quilicura
+308,45,Quinta Normal
+309,45,Recoleta
+310,45,Renca
+311,45,San Joaquín
+312,45,San Miguel
+313,45,San Ramón
+314,45,Santiago
+315,45,Vitacura
+316,46,Puente Alto
+317,46,Pirque
+318,46,San José De Maipo
+319,47,Melipilla
+320,47,María Pinto
+321,47,Curacaví
+322,47,Alhué
+323,47,San Pedro
+324,48,Talagante
+325,48,El Monte
+326,48,Isla De Maipo
+327,48,Padre Hurtado
+328,48,Peñaflor
+329,49,Buin
+330,49,Calera De Tango
+331,49,Paine
+332,49,San Bernardo
+333,50,Colina
+334,50,Lampa
+335,50,Til Til
+336,51,Valdivia
+337,51,Corral
+338,51,Lanco
+339,51,Los Lagos
+340,51,Mafil
+341,51,Mariquina
+342,51,Paillaco
+343,51,Panguipulli
+344,52,La Union
+345,52,Futrono
+346,52,Lago Ranco
+347,52,Río Bueno

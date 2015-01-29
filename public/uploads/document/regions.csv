@@ -1,0 +1,16 @@
+id,numero,nombre,titulo
+1,Primera,I,Región De Tarapacá
+2,Segunda,II,Región De Antofagasta
+3,Tercera,II,Región De Atacama
+4,Cuarta,IV,Región De Coquimbo
+5,Quinta,V,Región De Valparaiso
+6,Sexta,VI,Región Del Libertador General Bernardo Ohiggins
+7,Séptima,VII,Región Del Maule,NULL,NULL
+8,Octava,VIII,Región Del Bío - Bío
+9,Novena,IX,Región De La Araucanía
+10,Décima,X,Región De Los Lagos
+11,Decimoprimera,XI,Región Aysén Del General Carlos Ibáñez Del Campo
+12,Decimosegunda,XII,Región De Magallanes Y La Antártica Chilena
+13,Metropolitana,XIII,Región Metropolitana
+14,Decimocuarta,XIV,Region De Los Ríos
+15,Decimoquinta,XV,Región De Arica Y Parinacota
